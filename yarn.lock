@@ -741,10 +741,10 @@
   dependencies:
     "@types/jest-diff" "*"
 
-"@types/lodash@^4.14.138":
-  version "4.14.138"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.138.tgz#34f52640d7358230308344e579c15b378d91989e"
-  integrity sha512-A4uJgHz4hakwNBdHNPdxOTkYmXNgmUAKLbXZ7PKGslgeV0Mb8P3BlbYfPovExek1qnod4pDfRbxuzcVs3dlFLg==
+"@types/lodash@^4.14.143":
+  version "4.14.143"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.143.tgz#59b5813a284ea981ad33da8d9ebe4582997a6938"
+  integrity sha512-SJjLJkaSVYfRTLdi5llaabRVjWHQ86McEJ0BGNzHYREtJvlnJEHlaLcZ8s7Ah091QFfOeZTtiduoUN2gTcpTng==
 
 "@types/merge-stream@^1.1.1":
   version "1.1.2"

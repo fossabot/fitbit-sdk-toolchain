@@ -71,7 +71,7 @@
     "events-intercept": "^2.0.0",
     "fp-ts": "^2.0.5",
     "fs-extra": "^8.1.0",
-    "glob": "^7.1.4",
+    "glob": "^7.1.5",
     "gulp-file": "^0.4.0",
     "gulp-zip": "^5.0.0",
     "humanize-list": "^1.0.1",
